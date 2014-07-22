@@ -11,3 +11,4 @@ https://github.com/swag-webstore/docs/wiki
 
 ホヒホヒ(*^o^*)
 
+↑意図せず斜体になってる気がします
