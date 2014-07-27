@@ -6,6 +6,10 @@ EC-CUBE利用
 * デザイン
 http://www.adamsjuggler.com/index.php  
 
+* ドメイン取得  
+サイト名のドメインを取得
+  
+
 非機能要件
 --
 * セキュリティ  
@@ -13,3 +17,4 @@ http://www.adamsjuggler.com/index.php
   
 * 冗長構成  
 DNSラウンドロビン
+
