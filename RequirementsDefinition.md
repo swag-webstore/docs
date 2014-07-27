@@ -1,8 +1,11 @@
 機能要件
 --
 * ECサイトを提供  
-* 見た目:http://www.adamsjuggler.com/index.php
+EC-CUBE利用  
   
+* デザイン
+http://www.adamsjuggler.com/index.php  
+
 非機能要件
 --
 * セキュリティ  
